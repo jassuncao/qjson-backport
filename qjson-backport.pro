@@ -26,4 +26,6 @@ HEADERS += qjsonwriter_p.h \
     qjsonobject.h \
     qjsonexport.h \
     qjsondocument.h \
-    qjsonarray.h
+    qjsonarray.h \
+    qjsonwriter_p.h \
+    qjsonparser_p.h
